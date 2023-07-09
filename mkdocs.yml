@@ -1,0 +1,7 @@
+site_name: XDU-WiKI
+nav:
+    - 开始: index.md
+    - 关于: about.md
+    - 如何贡献: contribute.md
+theme:
+  name: material
