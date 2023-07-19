@@ -15,6 +15,7 @@ repo_url: "https://github.com/InsightsXDU/XDU-WiKi"
 nav:
     - 开始:
           - 欢迎: index.md
+          - 总序: 开始/总序.md
           - 路线分享: 
               - 序言: 开始/路线分享序言.md
     - 生活: 
